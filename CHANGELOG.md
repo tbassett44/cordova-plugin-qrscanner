@@ -1,4 +1,11 @@
-<a name="3.0.1"></a>
+<a name="3.0.3"></a>
+## [3.0.3](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...3.0.1) (2019-12-26)
+
+
+### Feature Addition
+
+* iOS and Android now support EAN-13, CODE 128, and CODE 39 barcode types
+
 ## [3.0.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...3.0.1) (2019-03-29)
 
 
