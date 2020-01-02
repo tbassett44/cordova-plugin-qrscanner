@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-qrscanner" version="3.0.3-nectar">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-qrscanner" version="3.0.4-nectar">
   <name>QRScanner</name>
   <js-module src="www/www.min.js" name="QRScanner">
     <clobbers target="QRScanner" />
